@@ -3,7 +3,7 @@ Business Intelligence • Data Systems • All Things Automotive
 
 I build BI and data engineering systems for large-scale retail execution platforms—SQL, LookML, backend logic, and performance tuning across huge datasets. Outside of work, I mess with All thing VW and Audi
 
-
+[![DareDooles's GitHub stats](https://github-readme-stats.vercel.app/api?username=daredoole)](https://github.com/daredoole/github-readme-stats)
 
 ## Work
 - Architect SQL and LookML models for multi-tenant analytics environments  

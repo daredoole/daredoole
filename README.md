@@ -1,4 +1,4 @@
-# Darrian Poole
+# Darrian
 Business Intelligence • Data Systems • All Things Automotive
 
 I build BI and data engineering systems for large-scale retail execution platforms—SQL, LookML, backend logic, and performance tuning across huge datasets. Outside of work, I mess with All thing VW and Audi

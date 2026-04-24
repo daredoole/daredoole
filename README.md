@@ -15,7 +15,7 @@ I build BI and data engineering systems for large-scale platforms—SQL, LookML,
 </p>
 
 <p align="left">
-  <img height="200" alt="Darrian's GitHub stats" src="https://github-readme-stats-vercel-liard.vercel.app/api?username=daredoole&amp;show_icons=true&amp;include_all_commits=true&amp;show=prs_merged,prs_merged_percentage&amp;hide_border=true&amp;theme=tokyonight" />
+  <img height="200" alt="Darrian's GitHub stats" src="https://github-readme-stats-vercel-liard.vercel.app/api?username=daredoole&amp;show_icons=true&amp;include_all_commits=true&amp;show=prs_merged,prs_merged_percentage&amp;hide_border=true&amp;theme=tokyonight&amp;v=sso1" />
   <img height="200" alt="Darrian's top languages" src="https://github-readme-stats-vercel-liard.vercel.app/api/top-langs/?username=daredoole&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=tokyonight" />
 </p>
 

@@ -1,7 +1,7 @@
 # Darrian
 Business Intelligence • Data Systems • All Things Automotive
 
-I build BI and data engineering systems for large-scale platforms—SQL, LookML, backend logic, and performance tuning across huge datasets. Outside of work, I mess with all things VW and Audi
+I build BI and data engineering systems for large-scale platforms—SQL, LookML, backend logic, and performance tuning across huge datasets. Outside of work, I mess with all things VW and Audi.
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" />
@@ -15,32 +15,31 @@ I build BI and data engineering systems for large-scale platforms—SQL, LookML,
 </p>
 
 <p align="left">
-  <img height="200" alt="Darrian's GitHub stats" src="https://github-readme-stats-vercel-liard.vercel.app/api?username=daredoole&amp;show_icons=true&amp;include_all_commits=true&amp;show=prs_merged,prs_merged_percentage&amp;hide_border=true&amp;theme=tokyonight&amp;v=sso1" />
-  <img height="200" alt="Darrian's top languages" src="https://github-readme-stats-vercel-liard.vercel.app/api/top-langs/?username=daredoole&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=tokyonight" />
+  <img height="240" alt="Darrian's GitHub stats" src="https://github-readme-stats-vercel-liard.vercel.app/api?username=daredoole&amp;show_icons=true&amp;include_all_commits=true&amp;show=prs_merged,prs_merged_percentage&amp;hide_border=true&amp;theme=tokyonight&amp;v=sso1" />
+  <img height="240" alt="Darrian's top languages" src="https://github-readme-stats-vercel-liard.vercel.app/api/top-langs/?username=daredoole&amp;layout=compact&amp;langs_count=12&amp;hide_border=true&amp;theme=tokyonight" />
 </p>
 
-## Work
-- Architect SQL and LookML models for multi-tenant analytics environments  
-- Build Python for automation, ETL, and QA  
-- Lead end-to-end BI projects: requirements, development, QA, delivery  
-- Focus on performance tuning, and complex event logic  
+## Data Systems
+- Architect SQL and LookML models for multi-tenant analytics platforms
+- Build Python automation for ETL, QA, and operational workflows
+- Lead BI projects from requirements through delivery
+- Tune high-volume datasets, backend logic, and complex event models
 
 ## Automotive Projects
 
 ### RNS850 LAN Activation / Google Earth Restoration
-Working on Reverse engineering encrypted scripts, and attempting to develop a stable RNS850-focused LAN activation process.  
-Repo: https://github.com/daredoole/RNS850-LAN-Setup  
-Write-up: https://www.clubtouareg.com/threads/enabling-rns850-google-earth-via-lan.307124/
+Reverse engineering encrypted scripts and developing a stable RNS850-focused LAN activation process.
+[Write-up](https://www.clubtouareg.com/threads/enabling-rns850-google-earth-via-lan.307124/)
 
 ### Touareg 7P Electronics and Retrofits
-Lift, Custom ambient lighting, FlexRay steering research, and router-to-MMI gateway setup.  
-Thread: https://www.vwvortex.com/threads/darrian%E2%80%99s-2016-touareg-adventures.9535962/
+Lift, custom ambient lighting, FlexRay steering research, and router-to-MMI gateway setup.
+[Build thread](https://www.vwvortex.com/threads/darrian%E2%80%99s-2016-touareg-adventures.9535962/)
 
 ### Audi B5 2.0 Stroker Build
-Mechanical, wiring, ECU, standalone tuning, hardware, restoration
-Thread: https://www.vwvortex.com/threads/darrian%E2%80%99s-b5-2-0-stroker-build.9496093/
+Mechanical, wiring, ECU, standalone tuning, hardware, and restoration.
+[Build thread](https://www.vwvortex.com/threads/darrian%E2%80%99s-b5-2-0-stroker-build.9496093/)
 
-Car Instagram: https://www.instagram.com/vwaudigroup/
+[Car Instagram](https://www.instagram.com/vwaudigroup/)
 
 ## Interests
 Backend Python, embedded systems, CAN decoding, DSP/RTA tuning, Linux performance, CAD/fabrication, automotive hardware/electronics, and practical tools that solve real problems.

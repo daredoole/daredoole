@@ -1,0 +1,19 @@
+<svg width="300" height="240" viewBox="0 0 300 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Darrian's Core Stack</title>
+  <desc id="desc">A compact card listing data systems and automotive electronics strengths.</desc>
+  <rect x="0.5" y="0.5" width="299" height="239" rx="4.5" fill="#1a1b27"/>
+  <text x="25" y="35" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="600" fill="#70a5fd">Core Stack</text>
+
+  <text x="25" y="67" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="700" fill="#bf91f3">DATA SYSTEMS</text>
+  <circle cx="30" cy="87" r="4" fill="#38bdae"/>
+  <text x="42" y="91" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600" fill="#38bdae">SQL + LookML modeling</text>
+  <circle cx="30" cy="111" r="4" fill="#38bdae"/>
+  <text x="42" y="115" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600" fill="#38bdae">Python automation</text>
+  <circle cx="30" cy="135" r="4" fill="#38bdae"/>
+  <text x="42" y="139" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600" fill="#38bdae">BI delivery + QA</text>
+  <circle cx="30" cy="159" r="4" fill="#38bdae"/>
+  <text x="42" y="163" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600" fill="#38bdae">Event-model performance</text>
+
+  <text x="25" y="194" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="700" fill="#bf91f3">AUTOMOTIVE ELECTRONICS</text>
+  <text x="25" y="216" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600" fill="#38bdae">VW/Audi retrofits, Linux, diagnostics</text>
+</svg>

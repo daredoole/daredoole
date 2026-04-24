@@ -19,7 +19,7 @@
 
 <p align="center">
   <img height="240" alt="Darrian's GitHub stats" src="https://github-readme-stats-vercel-liard.vercel.app/api?username=daredoole&amp;show_icons=true&amp;include_all_commits=true&amp;show=prs_merged,prs_merged_percentage&amp;hide_border=true&amp;theme=tokyonight&amp;v=sso1" />
-  <img height="240" alt="Darrian's repo language mix" src="https://github-readme-stats-vercel-liard.vercel.app/api/top-langs/?username=daredoole&amp;layout=compact&amp;langs_count=12&amp;hide_border=true&amp;theme=tokyonight&amp;custom_title=Repo%20Language%20Mix" />
+  <img height="240" alt="Darrian's core stack" src="./assets/core-stack.svg" />
 </p>
 
 ## Focus
@@ -31,21 +31,14 @@
 | BI project delivery from requirements through QA | FlexRay steering research and embedded systems work |
 | Performance tuning for high-volume datasets and event models | CAD/fabrication, DSP/RTA tuning, and practical tooling |
 
-## Automotive Projects
+## Selected Automotive Work
 
-### RNS850 LAN Activation / Google Earth Restoration
-Reverse engineering encrypted scripts and developing a stable RNS850-focused LAN activation process.
-[Write-up](https://www.clubtouareg.com/threads/enabling-rns850-google-earth-via-lan.307124/)
+| Project | Focus | Link |
+| --- | --- | --- |
+| RNS850 LAN Activation / Google Earth Restoration | Reverse engineering encrypted scripts and building a stable RNS850-focused LAN activation process | [Write-up](https://www.clubtouareg.com/threads/enabling-rns850-google-earth-via-lan.307124/) |
+| Touareg 7P Electronics and Retrofits | Lift, ambient lighting, FlexRay steering research, and router-to-MMI gateway setup | [Build thread](https://www.vwvortex.com/threads/darrian%E2%80%99s-2016-touareg-adventures.9535962/) |
+| Audi B5 2.0 Stroker Build | Mechanical work, wiring, ECU, standalone tuning, hardware, and restoration | [Build thread](https://www.vwvortex.com/threads/darrian%E2%80%99s-b5-2-0-stroker-build.9496093/) |
 
-### Touareg 7P Electronics and Retrofits
-Lift, custom ambient lighting, FlexRay steering research, and router-to-MMI gateway setup.
-[Build thread](https://www.vwvortex.com/threads/darrian%E2%80%99s-2016-touareg-adventures.9535962/)
-
-### Audi B5 2.0 Stroker Build
-Mechanical, wiring, ECU, standalone tuning, hardware, and restoration.
-[Build thread](https://www.vwvortex.com/threads/darrian%E2%80%99s-b5-2-0-stroker-build.9496093/)
+Currently: backend Python, embedded systems, Linux performance, DSP/RTA tuning, CAD/fabrication, and tools that solve practical problems.
 
 [Car Instagram](https://www.instagram.com/vwaudigroup/)
-
-## Interests
-Backend Python, embedded systems, CAN decoding, DSP/RTA tuning, Linux performance, CAD/fabrication, automotive hardware/electronics, and practical tools that solve real problems.

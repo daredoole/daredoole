@@ -1,7 +1,7 @@
 # Darrian
 Business Intelligence • Data Systems • All Things Automotive
 
-I build BI and data engineering systems for large-scale platforms—SQL, LookML, backend logic, and performance tuning across huge datasets. Outside of work, I mess with All thing VW and Audi
+I build BI and data engineering systems for large-scale platforms—SQL, LookML, backend logic, and performance tuning across huge datasets. Outside of work, I mess with all things VW and Audi
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" />
@@ -10,8 +10,8 @@ I build BI and data engineering systems for large-scale platforms—SQL, LookML,
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=111111" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&amp;logo=githubactions&amp;logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&amp;logo=vercel&amp;logoColor=white" />
-  <img alt="VW Audi" src="https://img.shields.io/badge/VW%2FAudi-Electronics-111111?style=flat" />
-  <img alt="CAN bus" src="https://img.shields.io/badge/CAN-Bus-0F766E?style=flat" />
+  <img alt="VW Audi systems" src="https://img.shields.io/badge/VW%2FAudi-Systems-111111?style=flat" />
+  <img alt="Automotive electronics" src="https://img.shields.io/badge/Automotive-Electronics-0F766E?style=flat" />
 </p>
 
 <p align="left">

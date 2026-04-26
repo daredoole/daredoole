@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img height="240" alt="Darrian's GitHub stats" src="https://github-readme-stats-vercel-liard.vercel.app/api?username=daredoole&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,stars_given&hide_border=true&hide_rank=true&theme=tokyonight&v=sso1" />
+  <img height="240" alt="Darrian's GitHub stats" src="https://github-readme-stats-vercel-liard.vercel.app/api?username=daredoole&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,stars_given&hide=stars&hide_border=true&hide_rank=true&theme=tokyonight&v=sso1" />
   <img height="240" alt="Darrian's core stack" src="./assets/core-stack.svg" />
 </p>
 

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build BI and data engineering systems for large-scale platforms — SQL, LookML, backend logic, and performance tuning across huge datasets. Outside of work, I mess with all things VW and Audi.
+  I build BI and data engineering systems for large scale operational platforms: SQL, LookML, backend logic, QA workflows, and performance tuning across high volume datasets. Outside of work, I build Linux desktop tools and work on VW/Audi electronics, diagnostics, and reverse engineering.
 </p>
 
 <p align="center">
@@ -14,11 +14,10 @@
   <img alt="LookML" src="https://img.shields.io/badge/LookML-4285F4?style=flat&logo=looker&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=111111" />
   <a href="https://fedoraproject.org"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white" /></a>
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
 </p>
 
 <p align="center">
-  <img height="240" alt="Darrian's GitHub stats" src="https://github-readme-stats-vercel-liard.vercel.app/api?username=daredoole&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide_border=true&hide_rank=true&theme=tokyonight&v=sso1" />
+  <img height="240" alt="Darrian's GitHub stats" src="https://github-readme-stats-vercel-liard.vercel.app/api?username=daredoole&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,stars_given&hide_border=true&hide_rank=true&theme=tokyonight&v=sso1" />
   <img height="240" alt="Darrian's core stack" src="./assets/core-stack.svg" />
 </p>
 

@@ -21,6 +21,31 @@
   <img height="240" alt="Darrian's core stack" src="./assets/core-stack.svg" />
 </p>
 
+## Tools I'm Proud Of
+
+These are some of the projects I've put the most work into: practical tools for Linux, measured audio, home automation, and VW/Audi electronics.
+
+### Linux Desktop and Setup
+
+| Project | What it does |
+| --- | --- |
+| [inputflow-linux](https://github.com/daredoole/inputflow-linux) | Native C++17 Linux client for Microsoft PowerToys Mouse Without Borders. Shares mouse, keyboard, and clipboard across machines, with automatic reconnect, a tray and dashboard, and an Android peer. |
+| [fedora-glow-kit](https://github.com/daredoole/fedora-glow-kit) | Fedora setup starter kit with CLI tools, terminal polish, and KDE options, built around backups, reversible installs, and clear credits. |
+
+### Audio and Home Automation
+
+| Project | What it does |
+| --- | --- |
+| [audio-calibration-mcp](https://github.com/daredoole/audio-calibration-mcp) | Cross-platform MCP server for REW measurements and speaker, room, and car calibration, with conservative EQ, JamesDSP and CamillaDSP workflows, and measured verification. |
+| [airplay-esp32](https://github.com/daredoole/airplay-esp32) | AirPlay 2 receiver for ESP32-S3 and PCM5102A, with per-channel parametric EQ, REW import, Audio Calibration MCP, a web UI, MQTT, and Home Assistant integration. Fork of [rbouteiller/airplay-esp32](https://github.com/rbouteiller/airplay-esp32). |
+| [spatial-presence](https://github.com/daredoole/spatial-presence) | Local-first Home Assistant floorplan editor and live presence map that brings multiple mmWave radars into one view. |
+
+### Automotive Tooling
+
+| Project | What it does |
+| --- | --- |
+| [MMI3G-Toolkit](https://github.com/daredoole/MMI3G-Toolkit) | Modular SD card toolkit for Audi/VW MMI 3G, MMI 3G+, and RNS-850 infotainment systems. Fork of [dspl1236/MMI3G-Toolkit](https://github.com/dspl1236/MMI3G-Toolkit). |
+
 ## Selected Automotive Work
 
 | Project | Focus | Link |
@@ -34,3 +59,5 @@
     <img alt="Car Instagram" src="https://img.shields.io/badge/@vwaudigroup-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+

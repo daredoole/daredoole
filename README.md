@@ -21,6 +21,36 @@
   <img height="240" alt="Darrian's core stack" src="./assets/core-stack.svg" />
 </p>
 
+## Showcase: RoomCall
+
+<p align="center">
+  <a href="https://github.com/daredoole/RoomCall"><img src="https://raw.githubusercontent.com/daredoole/RoomCall/main/docs/assets/logo.png" alt="RoomCall logo" width="72" /></a>
+</p>
+
+<p align="center">
+  <strong><a href="https://github.com/daredoole/RoomCall">RoomCall</a>: push-to-talk intercom for Home Assistant, on the speakers you already own.</strong><br />
+  Hold a button, talk, and your voice plays in the room you picked on Sonos, AirPlay, and Google Cast speakers.
+</p>
+
+<p align="center">
+  <a href="https://github.com/daredoole/RoomCall/releases"><img src="https://img.shields.io/github/v/release/daredoole/RoomCall" alt="Latest release" /></a>
+  <a href="https://hacs.xyz"><img src="https://img.shields.io/badge/HACS-Custom-41BDF5.svg" alt="HACS Custom" /></a>
+  <a href="https://daredoole.github.io/RoomCall/"><img src="https://img.shields.io/badge/docs-online-4f8cff" alt="Documentation" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daredoole/RoomCall/main/docs/assets/demo.gif" alt="Pick a room, hold to talk, and it plays live" width="240" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/daredoole/RoomCall/main/docs/assets/ios-rooms-dark.png" alt="RoomCall iOS app room picker" width="200" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/daredoole/RoomCall/main/docs/assets/ha-card-tasks.png" alt="RoomCall card To do list with task confirmation" width="200" />
+</p>
+
+- **Rooms are your Home Assistant areas**: call one room, the whole house, or a person wherever they are.
+- **Talk, Type, or Ask**: live voice, text-to-speech, or a question answered from an Assist satellite, with replies aimed back at the caller.
+- **Announcements and tasks**: scheduled or triggered announcements that keep reminding until someone confirms the chore is done.
+- **Quiet hours, Do Not Disturb, doorbell answering, and call history with transcripts**, plus a sideloadable native iOS app and Siri Shortcuts.
+
 ## Tools I'm Proud Of
 
 These are some of the projects I've put the most work into: practical tools for Linux, measured audio, home automation, and VW/Audi electronics.
